@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/99702f8e-a2df-44b0-83ea-19f82b9588bc/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/connie-home-page-testing",
+    "appService.deploySubpath": "."
+}
