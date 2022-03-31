@@ -1,0 +1,60 @@
+#home-logo {
+    width: 250px;
+    min-width: 40%;
+    max-width: 100%;
+    margin: auto;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.header-item {
+    background-color: rgb(27, 93, 119);
+    padding: 1% 5%;
+}
+
+.header-menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around
+}
+
+.header-item-title {
+    color: white;
+    text-align: center;
+    margin: 0;
+    font-size: 17px;
+}
+
+.header-item-input-group {
+    background: transparent;
+}
+
+.header-item-input-group input {
+    background: transparent;
+}
+
+.ant-layout-header .ant-menu {
+    font-size: 18px;
+}
+
+.ant-input-affix-wrapper {
+    padding: 0;
+}
+
+#brandselection {
+    background: rgb(27, 93, 119);
+    color: #ffff !important;
+}
+
+#searchbutton {
+    background: rgb(27, 93, 119);
+    color: #ffff !important;
+}
+
+.header-tool-fold {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
